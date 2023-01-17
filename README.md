@@ -2,7 +2,7 @@
 # Enlace al proyecto:
 https://superlative-cuchufli-9f28aa.netlify.app
 
-# Aplicacion de citas para el veterinario REACT-VITEs:
+# Aplicacion de citas para el veterinario REACT-VITES:
 
 ## INFORMACIÓN DEL PROYECTO
 Este proyecto ha sido creado con la intención afianzar conceptos con los HOOKS
