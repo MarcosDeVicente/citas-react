@@ -16,3 +16,5 @@ Posteriormente se debe ejecutar el comando `npm run dev` para iniciar la aplicac
 
 Lo primero que observamos es un formulario donde introducir la información deseada
 una vez terminado, aparecera una lista con la información que podrá ser eliminada o editada
+
+![Captura de pantalla 2023-01-17 a las 8 35 34](https://user-images.githubusercontent.com/52428440/212837631-ef001795-6784-42dc-a728-d771acb13a1d.png)
